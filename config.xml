@@ -4,15 +4,15 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>Nokia Data Gathering</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		Nokia Data Gathering helps organizations to collect data using mobile phones and deliver it for near-real-time analysis
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://ianlawrence.info"
+		email="root@ianlawrence.info">
+		Ian Lawrence
 	</author>
 
 	<gap:platforms>
